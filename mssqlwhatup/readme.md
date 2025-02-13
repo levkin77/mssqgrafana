@@ -1,4 +1,4 @@
-# MsSqlWhatsup - данные о интексах и пямяти в текущий момент
+# MsSqlWhatsup - данные о индексах и пямяти в текущий момент
 
 - **"MSSQLWhatsUpBoard"** - данные для одной базы
 ![](img/whatsup_single.png)
